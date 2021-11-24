@@ -58,7 +58,7 @@ export const projects = [
         company:'Adobe'
     },
      {
-        quote:'Erwann est très professionnel. Il analyse et comprend les besoins très rapidement, ce qui lui permet procure une grande facilité dans son avancement.',
+        quote:'Erwann est très professionnel. Il analyse et comprend les besoins très rapidement, ce qui lui procure une grande facilité dans son avancement.',
         image:'https://image.freepik.com/free-vector/hand-drawn-ethnic-wolf-pack_23-2147646758.jpg',
         name:'Damien',
         company:'The Wolf'
