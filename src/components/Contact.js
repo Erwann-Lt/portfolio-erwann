@@ -52,9 +52,9 @@ const Contact =()=>{
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <span className="text-indigo-400 leading-relaxed">
+              <a className="text-indigo-400 leading-relaxed" href=''>
                 labrot.erwann@gmail.com
-              </span>
+              </a>
            
             </div>
           </div>
