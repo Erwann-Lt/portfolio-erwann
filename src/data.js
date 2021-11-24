@@ -64,7 +64,7 @@ export const projects = [
         company:'The Wolf'
     },
     {
-        quote:'Erwann a un personnalité très agréable. Il aime apprendre et trouve toujours comment repousser ses limites.',
+        quote:'Erwann a une personnalité très agréable. Il aime apprendre et trouve toujours comment repousser ses limites.',
         image:'https://tse4.mm.bing.net/th?id=OIP.qNjdZ7moskcnAync-Y4FDgHaD5&pid=Api',
         name:'Cyril',
         company:'Doctolib'
