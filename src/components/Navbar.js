@@ -5,7 +5,7 @@ const Navbar =()=>{
     return(
         <header className="bg-gray-800 z-50 md:sticky top-0 z-10">
       <div className="container  mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <span className="title-font font-medium text-white mb-4 md:mb-0">
+        <a className="title-font font-medium text-white mb-4 md:mb-0" href=''>
           <a href="#about" className="ml-3 text-xl">
             Erwann Labrot
           </a>
