@@ -7,6 +7,14 @@ export const projects = [
       image: "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwd29ya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://protg.netlify.app/",
     },
+     {
+      title: "Judo Landerneau",
+      subtitle: "React + Typescript",
+      description:
+        "Front: React + Typescript, site web du club de judo de la ville",
+      image: "https://media.istockphoto.com/photos/judo-fight-picture-id181133042?k=20&m=181133042&s=612x612&w=0&h=2FTAl6LVBdP1eNc6HBXfMEXZNET14jy7hWWa139L2jQ=",
+      link: "https://judolanderneau.netlify.app/",
+    },
     {
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
