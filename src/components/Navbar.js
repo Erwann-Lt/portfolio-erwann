@@ -20,7 +20,9 @@ const Navbar =()=>{
           <a href="#testimonials" className="mr-5 hover:text-white">
             Témoignages
           </a>
-        <a href='https://github.com/Erwann-Lt' target='_blank' rel='noreferrer'>
+        <a href='https://github.com/Erwann-Lt' 
+            className="mr-5 hover:text-white"
+            target='_blank' rel='noreferrer'>
             <svg xmlns="http://www.w3.org/2000/svg" 
                 width="16" 
                 height="16" 
