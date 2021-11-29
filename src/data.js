@@ -27,7 +27,7 @@ export const projects = [
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
       description:
-        "Front réalisé avec React, reproduction du site original,
+        "Front réalisé avec React, reproduction du site original",
       image: "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJha2VyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://repro-ymare-2021.netlify.app/",
     },
