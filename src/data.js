@@ -17,9 +17,9 @@ export const projects = [
     },
      {
       title: "Movizer",
-      subtitle: "React",
+      subtitle: "React Movie App",
       description:
-        "Front: React + API OMDB, Movie-app",
+        "Front: React + Hooks , API : OMDB API, API tester : Postman",
       image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW92aWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       link: "https://movizer.netlify.app/",
     },
