@@ -19,7 +19,7 @@ export const projects = [
       title: "Movizer",
       subtitle: "React Movie App",
       description:
-        "Front: React + Hooks , API : OMDB API, API tester : Postman",
+        "Front: React + Hooks , API : OMDB API, Postman",
       image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW92aWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       link: "https://movizer.netlify.app/",
     },
@@ -27,7 +27,7 @@ export const projects = [
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
       description:
-        "Front réalisé avec React, reproduction du site original, responsive: en cours",
+        "Front réalisé avec React, reproduction du site original,
       image: "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJha2VyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://repro-ymare-2021.netlify.app/",
     },
