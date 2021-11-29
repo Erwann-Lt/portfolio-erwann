@@ -15,6 +15,14 @@ export const projects = [
       image: "https://media.istockphoto.com/photos/judo-fight-picture-id181133042?k=20&m=181133042&s=612x612&w=0&h=2FTAl6LVBdP1eNc6HBXfMEXZNET14jy7hWWa139L2jQ=",
       link: "https://judolanderneau.netlify.app/",
     },
+     {
+      title: "Movizer",
+      subtitle: "React",
+      description:
+        "Front: React + API OMDB, Movie-app",
+      image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW92aWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      link: "https://movizer.netlify.app/",
+    },
     {
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
