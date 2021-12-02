@@ -43,7 +43,7 @@ export const projects = [
       title: "Enalia",
       subtitle: "React and Spring",
       description:
-        "Retranscription du site original en React, responsive: en cours",
+        "Front React + Spring, reproduction du site original",
       image: "https://uploads-ssl.webflow.com/5f0c8ee786502d713c4bbd11/5f48b4bc3f2c3d0b9ebba36e_Enalia%20picto.svg",
       link: "https://repro-enalia-2021.netlify.app/",
     },
