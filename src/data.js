@@ -31,6 +31,14 @@ export const projects = [
       image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW92aWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       link: "https://movizer.netlify.app/",
     },
+     {
+      title: "Erwann, votre présentateur météo",
+      subtitle: "React + API",
+      description:
+        "Front: réalisé avec React + hooks, API : openweathermap.org/api",
+      image: "https://images.unsplash.com/photo-1590055531615-f16d36ffe8ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VhdGhlciUyMGZvcmVjYXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      link: "https://meterou.netlify.app/",
+    },
     {
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
