@@ -40,6 +40,14 @@ export const projects = [
       link: "https://meterou.netlify.app/",
     },
     {
+      title: "Pense-bête",
+      subtitle: "React + local storage",
+      description:
+        "Front: React + local storage, création de notes type post-it ",
+      image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      link: "https://noteslist.netlify.app/",
+    },
+    {
       title: "La boulangerie d'Ymare",
       subtitle: "React Hooks",
       description:
