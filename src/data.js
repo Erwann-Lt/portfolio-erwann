@@ -35,7 +35,7 @@ export const projects = [
       title: "Erwann, votre présentateur météo",
       subtitle: "React + API",
       description:
-        "Front: réalisé avec React + hooks, API : openweathermap.org/api",
+        "Front: React + hooks, API : openweathermap.org/api",
       image: "https://images.unsplash.com/photo-1590055531615-f16d36ffe8ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VhdGhlciUyMGZvcmVjYXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://meterou.netlify.app/",
     },
