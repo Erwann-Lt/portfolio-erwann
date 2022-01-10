@@ -7,6 +7,14 @@ export const projects = [
       image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aW5zdGFncmFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://erstagram.netlify.app/",
     },
+      {
+      title: "Création API et déploiement RapidAPI",
+      subtitle: "Back-end",
+      description:
+        "Back: NodeJS, Express, Heroku, RapidAPI",
+      image: "https://softwareengineeringdaily.com/wp-content/uploads/2018/12/rapidAPI.jpg",
+      link: "https://rapidapi.com/Erwann-Lt/api/sport-sante/",
+    },
     {
       title: "PROTG",
       subtitle: "MERN Stack",
