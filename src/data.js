@@ -11,7 +11,7 @@ export const projects = [
       title: "Création API et déploiement RapidAPI",
       subtitle: "Back-end",
       description:
-        "Back: NodeJS, Express, Heroku, RapidAPI",
+        "Back: NodeJS, Express, RapidAPI, Heroku : sportsandhealthapi.herokuapp.com/news",
       image: "https://softwareengineeringdaily.com/wp-content/uploads/2018/12/rapidAPI.jpg",
       link: "https://rapidapi.com/Erwann-Lt/api/sport-sante/",
     },
