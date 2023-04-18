@@ -134,7 +134,7 @@ export const projects = [
           "React JS","CSS","React-Router",
           "JavaScript","BootStrap", "Spring",
           'Node','Express', 'TailwindCSS', 'WordPress', 
-          'Git', 'GitLab', 'Github'
+          'Git', 'GitLab', 'Github', 'Drupal'
       
   ];
 
