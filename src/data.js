@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "Full stack",
       description:
         "Front: Wordpress + Hosting : OVHCloud",
-      image: "https://www.soins-rando-survie.com/wp-content/uploads/2023/02/cropped-Logo-SRS-Noir-1.png",
+      image: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
       link: "https://www.soins-rando-survie.com/",
     },
           {
@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "Full stack",
       description:
         "Front: Wordpress + Hosting : OVHCloud",
-      image: "https://parquetho.com/wp-content/uploads/2022/10/cropped-cropped-cropped-Logo-Final.jpg",
+      image: "https://images.unsplash.com/photo-1487266659293-c4762f375955?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvb2RlbiUyMGZsb29yfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       link: "https://parquetho.com/",
     },
          {
@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "Full stack",
       description:
         "Front: Wordpress + Hosting : OVHCloud",
-      image: "https://grainesdeforets.fr/wp-content/uploads/2023/02/logo-principal.png",
+      image: "https://images.unsplash.com/photo-1538935732373-f7a495fea3f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1559&q=80",
       link: "https://grainesdeforets.fr/",
     },
      {
