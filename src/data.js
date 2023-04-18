@@ -1,4 +1,28 @@
 export const projects = [
+        {
+      title: "Soins Rando Survie",
+      subtitle: "Full stack",
+      description:
+        "Front: Wordpress + Hosting : OVHCloud",
+      image: "https://www.soins-rando-survie.com/wp-content/uploads/2023/02/cropped-Logo-SRS-Noir-1.png",
+      link: "https://www.soins-rando-survie.com/",
+    },
+          {
+      title: "ParquetHO",
+      subtitle: "Full stack",
+      description:
+        "Front: Wordpress + Hosting : OVHCloud",
+      image: "https://parquetho.com/wp-content/uploads/2022/10/cropped-cropped-cropped-Logo-Final.jpg",
+      link: "https://parquetho.com/",
+    },
+         {
+      title: "Graines de Forêts",
+      subtitle: "Full stack",
+      description:
+        "Front: Wordpress + Hosting : OVHCloud",
+      image: "https://grainesdeforets.fr/wp-content/uploads/2023/02/logo-principal.png",
+      link: "https://grainesdeforets.fr/",
+    },
      {
       title: "Clone Instagram",
       subtitle: "Full stack",
