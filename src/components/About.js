@@ -3,7 +3,7 @@ const About =()=>{
         <section id="about">
             <div class="relative flex items-center 
         justify-center h-screen overflow-hidden">
-        <div class="z-50 flex items-center 
+        <div class="z-50 flex flex-col items-center 
         justify-center h-screen text-2xl text-black">
         <h1> La joie de vivre</h1>
         <h2>La joie du code</h2>
