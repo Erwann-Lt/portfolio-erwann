@@ -4,7 +4,7 @@ const About =()=>{
             <div class="relative flex items-center 
         justify-center h-screen overflow-hidden">
         <div class="z-50 flex flex-col items-center 
-        justify-center h-screen text-2xl text-black gap-8">
+        justify-center h-screen text-2xl text-black gap-12">
         <h1> La joie de vivre</h1>
         <h2>La joie du code</h2>
         </div>
