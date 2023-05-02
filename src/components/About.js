@@ -3,7 +3,11 @@ const About =()=>{
         <section id="about">
             <div class="relative flex items-center 
         justify-center h-screen overflow-hidden">
+        <div class="z-50 flex items-center 
+        justify-center h-screen">
         <h1> La joie de vivre</h1>
+        <h2>La joie du code</h2>
+        </div>
         <video src=
         "https://assets.mixkit.co/videos/preview/mixkit-happy-man-running-at-low-tide-21706-large.mp4"
             autoplay="{true}" loop muted
