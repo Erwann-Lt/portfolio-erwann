@@ -7,6 +7,14 @@ export const projects = [
       image: "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
       link: "https://erwannlabrot.netlify.app/",
     },
+          {
+      title: "Gamy Game",
+      subtitle: "Full stack",
+      description:
+        "NEXT JS : React Js / Node -  Css : TailwindCSS",
+      image: "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
+      link: "https://erwannlabrot.netlify.app/",
+    },
          {
       title: "Tout Commence En Finistère",
       subtitle: "Full stack - Maintenance / Evolution",
