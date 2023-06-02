@@ -37,9 +37,8 @@ const Contact =()=>{
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=landerneau&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d680440.5102795097!2d-4.923281483057195!3d48.226437932743515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4816cc717f347f47%3A0x30ca5cd36df2730!2sFinist%C3%A8re!5e0!3m2!1sfr!2sfr!4v1685689004276!5m2!1sfr!2sfr"
           />
- 
         </div>
         <form
           netlify
